@@ -16,23 +16,23 @@
       </a>
     </span>
     <span>
-    <a href="">
+    <a href="https://spring.io/projects/spring-boot/">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     </a>
     </span>
     <span>
-    <a href="">
+    <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     </a>
     </span>
     <span>
-    <a href="">
+    <a href="https://aws.amazon.com/ko/free/?gclid=Cj0KCQiAh8OtBhCQARIsAIkWb68gUElu_CaeyS-Exgq5ydj7sDXYyIbMiEPHmJwL--vqAlQCi1BFo0EaAkm3EALw_wcB&trk=fa2d6ba3-df80-4d24-a453-bf30ad163af9&sc_channel=ps&ef_id=Cj0KCQiAh8OtBhCQARIsAIkWb68gUElu_CaeyS-Exgq5ydj7sDXYyIbMiEPHmJwL--vqAlQCi1BFo0EaAkm3EALw_wcB:G:s&s_kwcid=AL!4422!3!563761819834!e!!g!!aws!15286221779!129400439466&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all">
       <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=AWS&logoColor=white">
     </a>
     </span>
     <span>
-    <a href="">
-      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+    <a href="https://dev.java/">
+      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     </a>
     </span>
   </div>
