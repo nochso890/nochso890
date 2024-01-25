@@ -27,12 +27,11 @@
     </span>
     <span>
     <a href="">
-          <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=AWS&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=AWS&logoColor=white">
     </a>
     </span>
     <span>
     <a href="">
-
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     </a>
     </span>
