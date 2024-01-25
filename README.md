@@ -1,7 +1,8 @@
 <div align="center">
   <!-- Header banner -->
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/> -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=My Profile%20render&fontSize=90" />
+<!--   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=My Profile%20render&fontSize=90" /> -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
   <br><br>
   <!-- Title Typing Effect -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=fff758&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+changsong+Noh;Research+on+deep+learning" alt="Typing SVG" /></a>
@@ -69,5 +70,5 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=nochso890&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a> -->
 <!--   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/> -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=footer&text=&fontSize=90" />
+  
 </div>
