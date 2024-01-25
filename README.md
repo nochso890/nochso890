@@ -41,8 +41,6 @@
     <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     </a>
     </span>
-    <br>
-    <br>
     <span>
     <a href="https://aws.amazon.com/ko/free/?gclid=Cj0KCQiAh8OtBhCQARIsAIkWb68gUElu_CaeyS-Exgq5ydj7sDXYyIbMiEPHmJwL--vqAlQCi1BFo0EaAkm3EALw_wcB&trk=fa2d6ba3-df80-4d24-a453-bf30ad163af9&sc_channel=ps&ef_id=Cj0KCQiAh8OtBhCQARIsAIkWb68gUElu_CaeyS-Exgq5ydj7sDXYyIbMiEPHmJwL--vqAlQCi1BFo0EaAkm3EALw_wcB:G:s&s_kwcid=AL!4422!3!563761819834!e!!g!!aws!15286221779!129400439466&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all">
       <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=AWS&logoColor=white">
@@ -64,7 +62,8 @@
       </a>
     </span>
   </div>
-
+    <br>
+    <br>
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nochso890&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
