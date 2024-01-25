@@ -8,7 +8,7 @@
   <div align="center">
   <br>
 
-  ##SKILLS
+  ## SKILLS
   <span>
   <img src="https://img.shields.io/badge/ Java language?style=plastic&log=C&logoColor=white"/>
   </span>
