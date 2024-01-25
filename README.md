@@ -9,11 +9,33 @@
   <br>
 
   ## SKILLS
-  <span>
-    <a href="https://spring.io/">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <div>
+    <span>
+      <a href="https://spring.io/">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+      </a>
+    </span>
+    <span>
+    <a href="">
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     </a>
-  </span>
+    </span>
+    <span>
+    <a href="">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    </a>
+    </span>
+    <span>
+    <a href="">
+    <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+    </a>
+    </span>
+    <span>
+    <a href="">
+    <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+    </a>
+    </span>
+  </div>
 
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
