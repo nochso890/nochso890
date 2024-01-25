@@ -16,10 +16,7 @@
 
   ## Work Experience.
   <div align="left">
-  ***Tappo***
-
-  
-  **TokenGate API 개발**
+    
   </div>
   ## Skills.
   <div>
