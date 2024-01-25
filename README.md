@@ -15,7 +15,9 @@
   ## Tech Stacks.
 
   ## Work Experience.
-
+  ***Tappo***
+  **TokenGate API 개발**
+  
   ## Skills.
   <div>
     <span>
