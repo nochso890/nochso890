@@ -13,8 +13,8 @@
   **더 좋은 서비스를 만들기위해 노력하는 백엔드 개발자 입니다.**
   
   ## Tech Stacks.
-  ** Java
-  ** Spring
+  ** Java **
+  ** Spring **
   ## Work Experience.
   <div align="left">
     
